@@ -7,4 +7,8 @@ LAR (Look Away Reminder) is a cross-platform application built with Next.js and 
 **Background Operation:** The app runs discreetly in the background, utilizing Electron's system tray functionality to deliver unobtrusive reminders at regular intervals.
 
 **Cross-Platform Compatibility:** Leveraging Electron.js, LAR supports Windows, macOS, and Linux, making it accessible to a wide range of users.
+
+
+
+
 ![image](https://github.com/user-attachments/assets/f6bff72a-f78b-4d7d-806d-6b43dfc87374)
